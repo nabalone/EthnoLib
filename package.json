@@ -16,5 +16,8 @@
     "semantic-release": "19.0.5",
     "vite": "^5.0.8",
     "vitest": "^2.0.5"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
